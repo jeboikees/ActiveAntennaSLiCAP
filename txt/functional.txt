@@ -1,0 +1,7 @@
+<h1>Functional Factors</h1>
+
+<p>This is example text</p>
+
+<p> you can do sort of line breaks by using different p tags </p>
+
+<h2> there's also big text</h2>
