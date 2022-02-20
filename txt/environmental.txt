@@ -1,7 +1,22 @@
 <h1>Environmental Factors</h1>
 
-<p>This is example text</p>
+<p>
+The antenna will be placed on the roof of EWI. This means that the antenna should be built such that it can survive and be used in this environment. 
+To be more specific, this includes temperature, humidity, air pressure and flow, EMI, physical shocks and vibrations and illumination for example.
+The most important factors of these are temperature and EMI, as these have the largest impact on the actual functioning of the antenna.
+</p>
 
-<p> you can do sort of line breaks by using different p tags </p>
+<p>
+According to the application description, the antenna should be able to operate between $-25\,. \!. \!.+70^{\circ}$C.
+</p>
 
-<h2> there's also big text</h2>
+
+Environmental specification
+Characteristics of the operational environment, such as
+- temperature
+- humidity
+- air pressure and flow
+- EMI
+- shock and vibration
+- illumination
+

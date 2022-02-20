@@ -1,5 +1,5 @@
 # ActiveAntennaSLiCAP
-active antenna slicap project
+Active Antenna Slicap Project. Currently working on assignment 2.
 
 
 # How to edit?
