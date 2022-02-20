@@ -8,9 +8,11 @@ The most important factors of these are temperature and EMI, as these have the l
 
 <p>
 According to the application description, the antenna should be able to operate between $-25\,. \!. \!.+70^{\circ}$C.
+The input of the antenna should also be protected against ESD discharge.
+The -3dB frequency range of the active antenna should equal 10kHz to 30MHz. The 1dB compression level at the output of the amplifier, measured at the input of the receiver should be above +0dBm (0dBm =1mW in $50 \Omega$). At the antenna input, this should be equivalent with an electrical field strength of $0.45V_{RMS}m^{-1}$.
 </p>
 
-
+<!--
 Environmental specification
 Characteristics of the operational environment, such as
 - temperature
@@ -19,4 +21,4 @@ Characteristics of the operational environment, such as
 - EMI
 - shock and vibration
 - illumination
-
+-->
