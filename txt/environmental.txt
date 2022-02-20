@@ -21,4 +21,11 @@ Characteristics of the operational environment, such as
 - EMI
 - shock and vibration
 - illumination
+
+Found:
+Temperature range -25 - 70 °C
+This interface box is located at a short distance of the receiver.
+The input of the active antenna should be protected against ESD discharge.
+antenna: A whip antenna (short rod)
+- the antenna rod is assumed to be placed on a supporting structure.
 -->
